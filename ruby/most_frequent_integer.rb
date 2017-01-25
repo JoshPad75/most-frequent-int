@@ -1,0 +1,2 @@
+def most_frequent_integer(array_of_integers)
+end

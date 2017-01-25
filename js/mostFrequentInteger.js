@@ -1,0 +1,3 @@
+exports.mostFrequentInteger = function(arrayOfIntegers) {
+
+};
